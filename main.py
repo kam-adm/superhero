@@ -23,4 +23,4 @@ elif intelligence_1 < intelligence_2 > intelligence_3:
 elif intelligence_2 < intelligence_3 > intelligence_1:
     print('Самый умный супергерой это', name_3)
 elif intelligence_2 == intelligence_1 == intelligence_3:
-    print('Самый умный супергерой не выявлен')
+    print('Самый умный супергерой не выявлен!')
